@@ -84,7 +84,7 @@ We plotted the most profitable genres by the month that they were released. In g
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./microsoft_movie_analysis_final.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./microsoft_movie_analysis_final.ipynb) or our [presentation](./Microsoft Movie Analysis Presentation.pdf).
 
 For any additional questions, please contact **Alex Valencia - asvalencia1688@gmail.com, Jordan Johnson - johnsonjordan556677@gmail.com, Warren Umbach - umbach4@gmail.com**
 
@@ -95,6 +95,6 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── microsoft_movie_analysis_final.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── Microsoft Movie Analysis Presentation.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
