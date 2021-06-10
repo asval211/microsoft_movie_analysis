@@ -84,7 +84,7 @@ We plotted the most profitable genres by the month that they were released. In g
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./microsoft_movie_analysis_final.ipynb) or our [presentation](./Microsoft Movie Analysis Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./microsoft_movie_analysis_final.ipynb.) or our [presentation](./Microsoft Movie Analysis Presentation.pdf)
 
 For any additional questions, please contact **Alex Valencia - asvalencia1688@gmail.com, Jordan Johnson - johnsonjordan556677@gmail.com, Warren Umbach - umbach4@gmail.com**
 
