@@ -40,16 +40,18 @@ Then, pick from a list of directors, actors, and actresses who are both popular 
 Next, pick some writers who are profitable.
 Finally, pick a release date based on the genre.
 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![graph1](./images/viz1.png)
+![graph1](./images/PopGenres.png)
+
+![graph2](./images/TopPopDirectos.png)
+
+![graph3](./images/ProfitableDirectors.png)
+
+![graph4](./images/ProfitableActorsActresses.png)
+
+![graph5](./images/ProfitableWriters.png)
 
 ## Conclusions
 
