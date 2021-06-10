@@ -40,8 +40,6 @@ Then, pick from a list of directors, actors, and actresses who are both popular 
 Next, pick some writers who are profitable.
 Finally, pick a release date based on the genre.
 
-Here is an example of how to embed images from your sub-folder:
-
 ### Visual 1
 ![graph1](./images/PopGenres.png)
 
@@ -66,19 +64,11 @@ We recommend:
 * Hire writers Steve Carell and Jack Kirby. 
 * Release the movie at the beginning of June.
 
-
-***
-Questions to consider: 
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
-
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./microsoft_movie_analysis_final.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Alex Valencia - asvalencia1688@gmail.com, Jordan Johnson - johnsonjordan556677@gmail.com, Warren Umbach - umbach4@gmail.com**
 
 ## Repository Structure
 
@@ -86,7 +76,7 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── microsoft_movie_analysis_final.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
