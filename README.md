@@ -45,12 +45,16 @@ Here is an example of how to embed images from your sub-folder:
 ### Visual 1
 ![graph1](./images/PopGenres.png)
 
+### Visual 2
 ![graph2](./images/TopPopDirectos.png)
 
+### Visual 3
 ![graph3](./images/ProfitableDirectors.png)
 
+### Visual 4
 ![graph4](./images/ProfitableActorsActresses.png)
 
+### Visual 5
 ![graph5](./images/ProfitableWriters.png)
 
 ## Conclusions
